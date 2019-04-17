@@ -1,0 +1,33 @@
+
+          Current Layout
+Player X's Turn / You Win! / You Lost..
+    A   B   C   D   E   F   G   H
+   _______________________________
+8 | 0   2   0   2   0   2   0   2 | 8
+  |                               |
+7 | 2   0   2   0   2   0   2   0 | 7
+  |                               |
+6 | 0   2   0   2   0   2   0   2 | 6
+  |                               |
+5 | 0   0   0   0   0   0   0   0 | 5
+  |                               |
+4 | 0   0   0   0   0   0   0   0 | 4
+  |                               |
+3 | 1   0   1   0   1   0   1   0 | 3
+  |                               |
+2 | 0   1   0   1   0   1   0   1 | 2
+  |                               |
+1 | 1   0   1   0   1   0   1   0 | 1
+  |_______________________________|
+    A   B   C   D   E   F   G   H
+
+*Only displays if user has King*
+Player X has king in position XX!
+
+Available moves:
+XX -> XX
+XX -> XX
+XX -> XX
+
+Player 1 has taken X pieces
+Player 2 has taken X pieces
